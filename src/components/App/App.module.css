@@ -1,0 +1,19 @@
+.container{
+  background: #93B6B7;
+  width: 1280px;
+  height: 880px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position:relative
+}
+
+.image{
+  position:absolute;
+  width:762px;
+  height: 351px;
+  left: 0;
+  top:529px;
+}

@@ -1,0 +1,137 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    width: 960px;
+    height: 400px;
+}
+
+.outline{
+    outline: 1px solid black;
+}
+
+.block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 53px;
+    padding-bottom: 63px;
+
+}
+
+.price{
+    display: flex;
+}
+
+.title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 2.4px;
+    color: #757575;
+}
+
+.dollar{
+    font-family: 'Arvo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 48px;
+    text-align: center;
+    color: #818181;
+    display: flex;
+    justify-content: flex-start;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 300px;
+
+}
+
+.cost{
+    font-family: 'Arvo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 89px;
+    text-align: center;
+    color: #212121;
+    
+}
+
+.text{
+    font-family: 'Arvo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #212121;
+    margin: 0;
+    margin-bottom: 9px;
+}
+
+.textNumber{
+    font-family: 'Arvo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #212121;
+    margin: 0;
+    margin-bottom: 13px;
+
+}
+
+.title1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 8px;
+    line-height: 10px;
+    text-align: center;
+    letter-spacing: 1.92px;
+    color: #FFFFFF;
+    padding: 4px 10px;
+    background-color: #8D76BE;
+    border-radius: 4px;
+    margin-right: 14px;
+
+}
+
+.yellow{
+    background-color: #FFC80A;
+}
+/* .white{
+    color:white;
+} */
+.colorRed{
+    color: #F05638;
+}
+
+.blockTitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.button{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 2.4px;
+    color: #525252;
+    padding: 16px 26px;
+    border-radius: 100px;
+}

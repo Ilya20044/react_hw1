@@ -1,0 +1,21 @@
+.title{
+    font-family: 'Arvo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.text{
+    font-family: 'OpenSans';
+    font-size: 14px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.titleContainer{
+    display: flex;
+    flex-direction: column;
+    width: 540px;
+}
